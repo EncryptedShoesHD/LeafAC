@@ -1,0 +1,8 @@
+name: LeafAC
+description: A lightweight cheat detection plugin for Minecraft.
+author: TheBizii
+version: 1.0.0
+database: false
+main: me.TheBizii.LeafAC.Main
+website: https://github.com/EncryptedShoesHD/LeafAC
+commands:
