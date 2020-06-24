@@ -1,6 +1,6 @@
 package me.TheBizii.LeafAC;
 
-import me.TheBizii.LeafAC.module.Flight;
+import me.TheBizii.LeafAC.module.Step;
 import org.bukkit.command.ConsoleCommandSender;
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.PluginManager;
@@ -32,7 +32,7 @@ public class Main extends JavaPlugin {
     private void registerListeners() {
         PluginManager pm = getServer().getPluginManager();
 
-        listeners.add(new Flight(this));
+        listeners.add(new Step(this));
 
         for(Listener l : listeners) {
             pm.registerEvents(l, this);
