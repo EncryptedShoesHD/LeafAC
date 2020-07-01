@@ -7,11 +7,11 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerMoveEvent;
 
-public class Step implements Listener {
+public class MovementChecks implements Listener {
 
     Main main;
 
-    public Step(Main plugin) {
+    public MovementChecks(Main plugin) {
         main = plugin;
     }
 
@@ -22,7 +22,7 @@ public class Step implements Listener {
         Location to = e.getTo();
         if(from.getY() != to.getY()) {
             double diff = to.getY() - from.getY();
-            //Step cheat detected.
+            //Step cheat detected. This also detects HighJump.
             if(diff >= 1) {
                 e.setCancelled(true);
             }

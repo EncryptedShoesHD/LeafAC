@@ -1,0 +1,83 @@
+[X] HighJump
+[X] Step
+[-] AntiAFK
+[-] AntiCactus
+[-] AntiKnockback
+[-] AntiWaterPush
+[-] AutoArmor
+[-] AutoBuild
+[-] AutoDrop
+[-] AutoEat
+[-] AutoFarm
+[-] AutoFish ?
+[-] AutoLeave
+[-] AutoMine ?
+[-] AutoPotion
+[-] AutoReconnect
+[-] AutoRespawn
+[-] AutoSign ?
+[-] AutoSoup
+[-] AutoSprint ?
+[-] AutoSteal
+[-] AutoSwim ?
+[-] AutoSwitch
+[-] AutoSword
+[-] AutoTool
+[-] Blink
+[-] BoatFly
+[-] BonemealAura
+[-] BowAimbot
+[-] BuildRandom
+[-] BunnyHop ?
+[-] CameraNoClip ?
+[-] ClickAura
+[-] Criticals
+[-] Derp ?
+[-] Dolphin ?
+[-] Excavator ?
+[-] ExtraElytra ?
+[-] FancyChat ?
+[-] FastBreak
+[-] FastLadder
+[-] FastPlace
+[-] FightBot
+[-] Flight
+[-] Follow ?
+[-] ForceOP ?
+[-] Freecam ?
+[-] Glide
+[-] HandNoClip
+[-] HeadRoll ?
+[-] InstantBunker
+[-] ItemGenerator
+[-] Jesus
+[-] Jetpack
+[-] Kaboom
+[-] Killaura
+[-] KillPotion
+[-] Liquids ?
+[-] MassTPA
+[-] MileyCyrus
+[-] MultiAura
+[-] NoClip
+[-] NoFall
+[-] NoSlowdown
+[-] NoWeb
+[-] Nuker
+[-] Parkour ?
+[-] PotionSaver ?
+[-] Protect ?
+[-] Reach
+[-] RemoteView ?
+[-] SafeWalk
+[-] ScaffoldWalk
+[-] ServerCrasher
+[-] SpeedHack
+[-] SpeedNuker
+[-] Spider
+[-] Throw ?
+[-] Timer ?
+[-] TP-Aura
+[-] TriggerBot
+[-] TrollPotion
+[-] X-Ray
