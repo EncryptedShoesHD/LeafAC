@@ -22,14 +22,10 @@ public class Step implements Listener {
         Location to = e.getTo();
         if(from.getY() != to.getY()) {
             double diff = to.getY() - from.getY();
-            if(diff == Math.rint(diff)) {
-                //Step cheat detected.
-                if(diff > 1)
-                    e.setCancelled(true);
-
-                //TODO: Testiraj različne scenarije in izboljšaj zaznavanje ter najdi potenciale bypass-e.
+            //Step cheat detected.
+            if(diff >= 1) {
+                e.setCancelled(true);
             }
-            p.sendMessage(diff + "");
         }
     }
 }
